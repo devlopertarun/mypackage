@@ -1,0 +1,20 @@
+{
+    "name": "juniorgrossi/hello-world",
+    "description": "My first Composer project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@name.com"
+        }
+    ],
+
+"repositories":[{
+  "type": "composer",
+  "url":  "https://php.fury.io/dRkxML_qbye4VVNerUET/devlopertarun/"
+}],
+    "minimum-stability": "dev",
+    "require": {}
+
+
+}

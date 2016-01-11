@@ -1,0 +1,13 @@
+{
+    "name": "juniorgrossi/hello-world",
+    "description": "My first Composer project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@name.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
